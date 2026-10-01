@@ -1,0 +1,8 @@
+mne>=1.13
+pyriemann>=0.12
+scikit-learn>=1.6
+numpy>=2.0
+scipy>=1.14
+pandas>=2.2
+openpyxl>=3.1
+matplotlib>=3.9
